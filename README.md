@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Hey 👋, I'm Stella Liang!  
+
   
 
 <a href="https://github.com/Estella-lwl" target="_blank">
@@ -11,7 +12,9 @@
 
 
 ### Glad to see you here!  
-I'm a full-time front-end developer 👨‍💻 working since 2021🚀  
+I'm a full-time front-end developer 👨‍💻 working since 2021🚀
+
+📍 ShenZhen  
   
 
 <br/>  
@@ -23,13 +26,13 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning TypeScript and Vue3  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 😜Come study with me!  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact:  ......  
 
 
 </td><td valign="top" width="50%">
@@ -65,11 +68,11 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Estella-lwl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Estella-lwl&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 

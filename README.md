@@ -72,7 +72,7 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 

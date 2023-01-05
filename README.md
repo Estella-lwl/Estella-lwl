@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
-📍 ShenZhen  
+📍 Shenzhen, China  
   
 
 <br/>  

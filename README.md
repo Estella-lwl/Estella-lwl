@@ -83,8 +83,10 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Estella-lwl&&style=flat-square)  
-  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Estella-lwl&&style=flat-square" align="center" />
+</div>  
 
 <br/>  
 

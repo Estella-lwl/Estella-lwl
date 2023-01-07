@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Hey 👋, I'm Stella Liang!  
-
   
 
 <a href="https://github.com/Estella-lwl" target="_blank">
@@ -46,6 +44,8 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 <br/>  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Languages and Tools  
 <div align="center">  

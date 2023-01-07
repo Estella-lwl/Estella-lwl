@@ -44,6 +44,7 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 <br/>  
 
+## 🏊‍♂️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text

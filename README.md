@@ -46,8 +46,7 @@ TypeScript   3 hrs 28 mins   ██▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-##test
-### Blog posts
+## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

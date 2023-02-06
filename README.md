@@ -48,11 +48,11 @@ TypeScript   2 hrs 38 mins   ██░░░░░░░░░░░░░░░
 
 ## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JS获取视频任意进度](https://polariis.gitee.io/posts/5ced3654/)
-- [JS精度丢失&amp;解决](https://polariis.gitee.io/posts/7fcf66dd/)
-- [重绘&amp;回流&lpar;重排&rpar;](https://polariis.gitee.io/posts/b4912e11/)
 - [Vue3语法变更总结](https://polariis.gitee.io/posts/97e721dd/)
-- [JS深拷贝](https://polariis.gitee.io/posts/3136a465/)
+- [ref &amp; reactive &amp; 响应式差异](https://polariis.gitee.io/posts/9badfa3f/)
+- [Vue3生命周期的变更](https://polariis.gitee.io/posts/2606f5b3/)
+- [JS小总结](https://polariis.gitee.io/posts/ac58b7ea/)
+- [Hello World](https://polariis.gitee.io/posts/3eeb/)
 <!-- BLOG-POST-LIST:END -->
 
 

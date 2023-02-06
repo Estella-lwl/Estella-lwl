@@ -48,11 +48,11 @@ TypeScript   2 hrs 38 mins   ██░░░░░░░░░░░░░░░
 
 ## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vue3语法变更总结](https://polariis.gitee.io/posts/97e721dd/)
 - [ref &amp; reactive &amp; 响应式差异](https://polariis.gitee.io/posts/9badfa3f/)
-- [Vue3生命周期的变更](https://polariis.gitee.io/posts/2606f5b3/)
 - [JS小总结](https://polariis.gitee.io/posts/ac58b7ea/)
+- [Vue3生命周期的变更](https://polariis.gitee.io/posts/2606f5b3/)
 - [Hello World](https://polariis.gitee.io/posts/3eeb/)
+- [Vue3语法变更总结](https://polariis.gitee.io/posts/97e721dd/)
 <!-- BLOG-POST-LIST:END -->
 
 

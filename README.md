@@ -24,7 +24,7 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 - ⚡博客：
   <br/>
-  https://polariis.gitee.io
+  https://polariis.gitee.io/
   <br/>
   https://estella-lwl.github.io/ （备用）
 

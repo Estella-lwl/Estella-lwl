@@ -16,13 +16,13 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning TypeScript and Vue3  
+- 🌱 I’m currently using TypeScript and Vue3  
   
 
 - 😜Come study with me!  
   
 
-- ⚡ Fun fact:  ......  
+- ⚡博客：https://polariis.gitee.io | https://stella-lwl.github.io/ （备用）
 
 
 </td><td valign="top" width="50%">

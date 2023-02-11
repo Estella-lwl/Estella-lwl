@@ -56,10 +56,10 @@ Other        9 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ref &amp; reactive &amp; 响应式差异](https://polariis.gitee.io/posts/9badfa3f/)
-- [JS小总结](https://polariis.gitee.io/posts/ac58b7ea/)
-- [Vue3生命周期的变更](https://polariis.gitee.io/posts/2606f5b3/)
-- [Hello World](https://polariis.gitee.io/posts/3eeb/)
+- [关于TS中描述Object类型的两种方式（类型签名和Record）](https://polariis.gitee.io/posts/61dca9cf/)
+- [JS获取视频任意进度](https://polariis.gitee.io/posts/5ced3654/)
+- [JS精度丢失&amp;解决](https://polariis.gitee.io/posts/7fcf66dd/)
+- [重绘&amp;回流&lpar;重排&rpar;](https://polariis.gitee.io/posts/b4912e11/)
 - [Vue3语法变更总结](https://polariis.gitee.io/posts/97e721dd/)
 <!-- BLOG-POST-LIST:END -->
 

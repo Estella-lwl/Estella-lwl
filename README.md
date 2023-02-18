@@ -56,11 +56,11 @@ HTML         19 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [使用InstanceType获取组件的类型](https://polariis.gitee.io/posts/26a2e475/)
+- [使用TS封装axios](https://polariis.gitee.io/posts/e96745cc/)
 - [关于TS中描述Object类型的两种方式（类型签名和Record）](https://polariis.gitee.io/posts/61dca9cf/)
-- [ref &amp; reactive &amp; 响应式差异](https://polariis.gitee.io/posts/9badfa3f/)
-- [Hello World](https://polariis.gitee.io/posts/3eeb/)
-- [Vue3生命周期的变更](https://polariis.gitee.io/posts/2606f5b3/)
-- [JS小总结](https://polariis.gitee.io/posts/ac58b7ea/)
+- [类class（JS &amp; TS）](https://polariis.gitee.io/posts/ba1dc77a/)
+- [JavaScript中的操作符](https://polariis.gitee.io/posts/122feaea/)
 <!-- BLOG-POST-LIST:END -->
 
 

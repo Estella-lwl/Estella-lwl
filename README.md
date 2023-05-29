@@ -84,11 +84,11 @@ JSON         24 mins         ▒░░░░░░░░░░░░░░░░
 ## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Estella-lwl&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Estella-lwl&show_icons=true&count_private=true&hide_border=true?theme=vue-dark" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true" align="center" style="width: 90%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estella-lwl&hide_border=true&layout=compact" align="center" style="width: 90%" /></div>
 
 </td></tr></table>  
 

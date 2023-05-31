@@ -1,4 +1,4 @@
-## 👋 Glad to see you here!  
+## [👋](https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif) Glad to see you here!  
 I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 📍 Shenzhen, China  

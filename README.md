@@ -55,7 +55,7 @@ CSS          35 mins         █░░░░░░░░░░░░░░░░
 
 ## 🔖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JS小总结](https://polariis.gitee.io/posts/ac58b7ea/)
+- [Vite无法使用动态src路径的问题 &amp; 解决](https://polariis.gitee.io/posts/6a3db6b3/)
 - [使用InstanceType获取组件的类型](https://polariis.gitee.io/posts/26a2e475/)
 - [使用TS封装axios](https://polariis.gitee.io/posts/e96745cc/)
 - [关于TS中描述Object类型的两种方式（类型签名和Record）](https://polariis.gitee.io/posts/61dca9cf/)

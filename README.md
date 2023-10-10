@@ -1,4 +1,4 @@
-<h2>Glad to see you here! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>   
+<h1>Glad to see you here! 👋 </h1>   
 I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 
 📍 Shenzhen, China  

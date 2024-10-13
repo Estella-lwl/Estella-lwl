@@ -19,9 +19,6 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 - 🌱 I’m currently using TypeScript and Vue3  
   
 
-- 😜Come study with me!  
-  
-
 - ⚡博客：
   <br/>
   https://polariis.gitee.io/

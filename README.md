@@ -41,8 +41,7 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       8 mins          ███████████████████░░░░░░   75.50 %
-TypeScript   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

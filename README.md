@@ -41,7 +41,7 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

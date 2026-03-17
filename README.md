@@ -41,11 +41,11 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       1 hr 32 mins          █████████████▓░░░░░░░░░░░   54.10 %
-JavaScript   51 mins               ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-Markdown     12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-TypeScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Vue.js       1 hr 32 mins          █████████████░░░░░░░░░░░░   51.56 %
+JavaScript   51 mins               ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+Markdown     14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+TypeScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+JSON         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->

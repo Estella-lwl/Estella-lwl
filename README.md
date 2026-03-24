@@ -41,11 +41,9 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 mins               ██████████▒░░░░░░░░░░░░░░   40.87 %
-Other        8 mins                ███████░░░░░░░░░░░░░░░░░░   28.03 %
-JSON         6 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-Markdown     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   11 mins               ██████████████▒░░░░░░░░░░   57.86 %
+Other        8 mins                ██████████░░░░░░░░░░░░░░░   39.69 %
+JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->

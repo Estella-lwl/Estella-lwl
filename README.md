@@ -41,7 +41,8 @@ I'm a full-time front-end developer 👨‍💻 working since 2021🚀
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     2 mins                ████████████████████▓░░░░   82.05 %
+JavaScript   0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
 ```
 
 <!--END_SECTION:waka-->
